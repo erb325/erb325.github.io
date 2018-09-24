@@ -1,5 +1,4 @@
-# Ember Baker
-
+# Resume
 
 ## Education
 
