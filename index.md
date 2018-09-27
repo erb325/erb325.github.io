@@ -1,13 +1,5 @@
 # Ember Baker Resume
 
-## Education
-
-#### Bloomsburg University of Pennsylvania, Bloomsburg, PA Jan 2014- May 2016
-- Bachelor of Science in Computer Science May 2016
-
-#### Bucks County Community College, Newtown, PA Aug 2012- Dec 2013
-- Associate of Arts in Computer Science December 2013
-
 ## Experience
 
 ### IT. Engineer, Cisco Systems, RTP, NC -  July 2016- Present
@@ -29,6 +21,14 @@
 - Used Storyboards for user navigation through the app
 - Distributed application to the enterprise using Fabric.io and Crashlytics
 - Expanded app to use Xcode 7 beta and WatchOS 2 beta to send top searches from an iPhone to an Apple Watch using WatchConnectivity
+
+## Education
+
+#### Bloomsburg University of Pennsylvania, Bloomsburg, PA Jan 2014- May 2016
+- Bachelor of Science in Computer Science May 2016
+
+#### Bucks County Community College, Newtown, PA Aug 2012- Dec 2013
+- Associate of Arts in Computer Science December 2013
 
 ## Related Skills
 
